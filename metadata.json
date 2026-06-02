@@ -1,0 +1,6 @@
+{
+  "name": "Hurley House Café",
+  "description": "Premium modern Southern comfort website and digital menu for Hurley House Café.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
